@@ -14,5 +14,11 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+<<<<<<< HEAD
 HelloGuide/.idea
 *.iml
+=======
+*.iml
+*.ipr
+*.iws
+>>>>>>> bb690a53017bcc03888132d1e208a729e59f41d7
